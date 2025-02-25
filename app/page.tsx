@@ -130,7 +130,7 @@ export default function Home() {
                 <div className="space-y-2">
                   <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">Why Choose Merlin Fox</h2>
                   <p className="max-w-[600px] text-gray-500 md:text-xl dark:text-gray-400">
-                    Founded in 2021 in Pune, we're a boutique agency that believes in personalized approaches, not
+                    Founded in 2021 in Pune, we&apos;re a boutique agency that believes in personalized approaches, not
                     one-size-fits-all solutions. With a deep understanding of your brand, audience, and industry, we
                     deliver exceptional results.
                   </p>
@@ -174,8 +174,8 @@ export default function Home() {
                     </div>
                   </div>
                   <p className="text-gray-600 dark:text-gray-300">
-                    "Merlin Fox helped us achieve a 400% ROI on our digital marketing campaigns through their
-                    personalized approach and expert strategies."
+                  &quot;Merlin Fox helped us achieve a 400% ROI on our digital marketing campaigns through their
+                    personalized approach and expert strategies.&quot;
                   </p>
                 </div>
               ))}
@@ -189,7 +189,7 @@ export default function Home() {
               <div className="space-y-2">
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">Ready to Grow?</h2>
                 <p className="max-w-[600px] text-gray-500 md:text-xl dark:text-gray-400">
-                  Let's craft your personalized digital strategy today.
+                  Let&apos;s craft your personalized digital strategy today.
                 </p>
               </div>
               <div className="w-full max-w-sm space-y-4">
